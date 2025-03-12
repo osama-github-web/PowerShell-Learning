@@ -182,5 +182,3 @@ Running this script outputs:
 ✅ **Operators**: `-eq`, `-lt`, `-gt`, `-match` help in logical conditions.  
 ✅ **Objects**: Use `Select-Object`, `Where-Object`, and `Sort-Object` for data manipulation.
 ```
-
-Feel free to adjust any sections as needed!
