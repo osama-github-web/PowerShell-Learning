@@ -1,5 +1,3 @@
-Here's a formatted version of your `README.md` file using Markdown:
-
 ```markdown
 # PowerShell Basics - Day 2 🚀
 
